@@ -58,3 +58,6 @@ ScamShield embodies the intersection of cybersecurity and artificial intelligenc
 ## Team / Author
 
 Built with ❤️ for DSOC 2026 — Cybersecurity & AI Hackathon
+
+<img width="1342" height="748" alt="Screenshot 2026-02-27 235642" src="https://github.com/user-attachments/assets/694dcc25-4896-4da7-989c-cc5a30471924" />
+
