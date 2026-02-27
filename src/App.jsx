@@ -30,7 +30,7 @@ function App() {
     setIsLoading(true);
     setResult(null);
 
-    const API_KEY = "AIzaSyD0jVlmlwoYuG67Y7rADAgy_WVXg5Qy2ns";
+    const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
     const prompt = `You are a scam detection AI. Analyze this message and respond ONLY with a valid JSON object, no markdown, no extra text:
 {
